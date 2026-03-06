@@ -1,0 +1,8 @@
+[project]
+name = "wordgate-mcp"
+version = "0.0.0"
+description = "Wordgate MCP servers monorepo"
+requires-python = ">=3.11"
+
+[tool.uv.workspace]
+members = ["src/*"]
