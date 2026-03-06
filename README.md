@@ -19,6 +19,7 @@ A collection of MCP (Model Context Protocol) servers for AI assistants.
 | [mobile-mcp](third-party/mobile-mcp.md) | Mobile device automation (iOS/Android) |
 | [x-mcp](third-party/x-mcp.md) | Twitter/X posting, search, and engagement |
 | [youtube-mcp](third-party/youtube-mcp.md) | YouTube channel management and analytics |
+| [mac-use-mcp](third-party/mac-use-mcp.md) | macOS desktop automation (screenshot + accessibility) |
 
 ## Development
 
