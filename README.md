@@ -16,6 +16,7 @@ A collection of MCP (Model Context Protocol) servers for AI assistants.
 |--------|-------------|
 | [otp-mcp](third-party/otp-mcp.md) | TOTP/HOTP one-time password generation |
 | [playwright-mcp](third-party/playwright-mcp.md) | Browser automation via Playwright |
+| [mobile-mcp](third-party/mobile-mcp.md) | Mobile device automation (iOS/Android) |
 
 ## Development
 
