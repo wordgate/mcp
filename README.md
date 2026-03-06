@@ -18,6 +18,7 @@ A collection of MCP (Model Context Protocol) servers for AI assistants.
 | [playwright-mcp](third-party/playwright-mcp.md) | Browser automation via Playwright |
 | [mobile-mcp](third-party/mobile-mcp.md) | Mobile device automation (iOS/Android) |
 | [x-mcp](third-party/x-mcp.md) | Twitter/X posting, search, and engagement |
+| [youtube-mcp](third-party/youtube-mcp.md) | YouTube channel management and analytics |
 
 ## Development
 
